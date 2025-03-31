@@ -1,5 +1,40 @@
-# 💫 About Me:
-# Enrico Libutti<br><br> 💻 Backend Developer | Smart Technologies | Student ITS<br><br>Ciao! Sono Enrico, studente ITS Tech Talent Factory a Milano con specializzazione in Backend Development. Appassionato di innovazione tecnologica, mi dedico allo sviluppo di soluzioni automatizzate, all'analisi di dati finanziari e alla creazione di API RESTful.<br><br> 💼 Esperienza<br>- **Stage @ Randstad Italia** (Set 2024 - Nov 2024)<br>  - Finance data collector e sviluppo KPI<br>  - RPA (Robotic Process Automation) utilizzando Python con API Google (Sheets/Drive)<br><br> 🛠️ Competenze Tecniche<br>- **Linguaggi**: Python, Java OOP, HTML, PHP<br>- **Database**: MongoDB, SQL, MySQL, Redis<br>- **Tools**: Git, Docker, Containerizzazione, Deploy su VM, Prometheus, Grafana<br>- **Ambienti**: Microsoft e Linux (Ubuntu/Fedora/Debian)<br><br> 🌱 Progetti<br>- **CarBooking**: Sistema di prenotazione veicoli per famiglie<br>- **SkillMatch**: Piattaforma di matching per competenze<br>- **PortfolioWeb**: Sito web per portfolio personale<br><br> 📚 Formazione<br>- **ITS Tech Talent Factory**: Backend Developer for Smart Technologies (2023-2025)<br>- **Istituto Tecnico Feltrinelli Milano**: Informatica e Telecomunicazioni<br><br># 📫 Contatti<br>- 📧 Email: info@libuttienrico.it<br>- 🌐 Sito web: [libuttienrico.it](https://www.libuttienrico.it)<br>- 📱 Telefono: +39 346 756 3509<br>- 📍 Basiglio, Milano<br><br>---<br>*Sempre alla ricerca di nuove sfide e opportunità di apprendimento. Disponibile per collaborazioni su progetti innovativi.*
+zRageyh_
+💻 **Backend Developer | Smart Technologies | Student ITS** <br>
+
+Ciao! Sono Enrico, studente ITS Tech Talent Factory a Milano con specializzazione in Backend Development. Appassionato di innovazione tecnologica, mi dedico allo sviluppo di soluzioni automatizzate, all'analisi di dati finanziari e alla creazione di API RESTful.
+💼 **Esperienza**
+
+Stage @ Randstad Italia (Set 2024 - Nov 2024)
+
+Finance data collector e sviluppo KPI
+RPA (Robotic Process Automation) utilizzando Python con API Google (Sheets/Drive)
+
+
+
+🛠️ **Competenze Tecniche**
+
+Linguaggi: Python, Java OOP, HTML, PHP
+Database: MongoDB, SQL, MySQL, Redis
+Tools: Git, Docker, Containerizzazione, Deploy su VM, Prometheus, Grafana
+Ambienti: Microsoft e Linux (Ubuntu/Fedora/Debian)
+
+🌱 **Progetti**
+
+CarBooking: Sistema di prenotazione veicoli per famiglie
+SkillMatch: Piattaforma di matching per competenze
+PortfolioWeb: Sito web per portfolio personale
+
+📚 **Formazione**
+
+ITS Tech Talent Factory: Backend Developer for Smart Technologies (2023-2025)
+Istituto Tecnico Feltrinelli Milano: Informatica e Telecomunicazioni
+
+📫 **Contatti**
+
+📧 Email: info@libuttienrico.it
+🌐 Sito web: libuttienrico.it
+📱 Telefono: +39 346 756 3509
+📍 Basiglio, Milano
 
 
 ## 🌐 Socials:
