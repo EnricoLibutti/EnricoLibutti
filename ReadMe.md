@@ -33,7 +33,6 @@ Istituto Tecnico Feltrinelli Milano: Informatica e Telecomunicazioni
 
 📧 Email: info@libuttienrico.it
 🌐 Sito web: libuttienrico.it
-📱 Telefono: +39 346 756 3509
 📍 Basiglio, Milano
 
 
